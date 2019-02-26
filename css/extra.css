@@ -2,8 +2,22 @@ h1 {
   color: coral;
 }
 
+h2 {
+color: black;
+}
+
+h3 {
+color: black;
+}
+
 body {
   color: green;
 }
 
+
+
+/* link */
+a {
+  color: olive;
+}
 
