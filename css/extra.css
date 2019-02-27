@@ -1,21 +1,17 @@
 h1 {
   color: coral;
-  font-size: 40px;
 }
 
 h2 {
   color: coral;
-  font-size: 30px;
 }
 
 h3 {
   color: coral;
-  font-size: 25px;
 }
 
 body {
   color: darkolive;
-  font-size: 18px;
 }
 
 
@@ -23,6 +19,5 @@ body {
 /* link */
 a {
   color: indigo;
-  font-size: 18px;
 }
 
